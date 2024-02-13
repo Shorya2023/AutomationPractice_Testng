@@ -1,0 +1,8 @@
+{
+    "input_Username_xpath" :"//input[@id='Email']",
+    "input_password_xpath" : "//input[@id='Password']",
+    "btn_LogIN_xpath" : "//button[@type='submit']"
+}
+
+
+
